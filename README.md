@@ -1,2 +1,2 @@
 # Data-Analytics
-Repository for Data Science Templates
+Data Science Template Repository for R, Pandas, NumPy, and Web-Scraping
